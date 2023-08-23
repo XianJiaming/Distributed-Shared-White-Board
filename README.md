@@ -9,9 +9,9 @@ CreateWhiteBoard.jar和JoinWhiteBoard.jar作为打包导出的可执行jar包，
 
 启动方式如下：
 
-> ```java CreateWhiteBoard \<serverIPAddress\> \<serverPort\> username```
+> ```java CreateWhiteBoard <serverIPAddress> <serverPort> username```
 
-> ```java JoinWhiteBoard \<serverIPAddress\> \<serverPort\> username```
+> ```java JoinWhiteBoard <serverIPAddress> <serverPort> username```
 
 例如：
 > ```java CreateWhiteBoard localhost 8123 jiamingXIAN_Server```
