@@ -14,6 +14,8 @@ CreateWhiteBoard.jar和JoinWhiteBoard.jar作为打包导出的可执行jar包，
 > '''java JoinWhiteBoard \<serverIPAddress\> \<serverPort\> username'''
 
 例如：
-'''java CreateWhiteBoard localhost 8123 jiamingXIAN_Server'''
+'''
+java CreateWhiteBoard localhost 8123 jiamingXIAN_Server
+'''
 
-'''java JoinWhiteBoard localhost 8123 jiamingXIAN_Client'''
+> '''java JoinWhiteBoard localhost 8123 jiamingXIAN_Client'''
